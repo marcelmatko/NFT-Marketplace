@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "img_nft": "https://i.imgur.com/E5HlSpR.png",
+    "img_collector": "https://i.imgur.com/7VpsOQd.png",
+    "collection_name": "InvisibleFriend #54",
+    "collector_name": "INVISIBLE_FRIEND.CO",
+    "crypto_chain": "https://i.imgur.com/SahQFuC.png",
+    "latest_bid": "6.73 ETH",
+    "from": "1.55 ETH",
+    "price": "$9,945.1",
+    "change": "+3.57%"
+  },
+  {
+    "id": 2,
+    "img_nft": "https://i.imgur.com/4KVcmsT.png",
+    "img_collector": "https://i.imgur.com/b8BsOy9.png",
+    "collection_name": "CryptoPunk 3D #13",
+    "collector_name": "3D cryptopunk",
+    "crypto_chain": "https://i.imgur.com/SahQFuC.png",
+    "latest_bid": "9.61 ETH",
+    "from": "4.12 ETH",
+    "price": "$103,025",
+    "change": "-2.25%"
+  },
+  {
+    "id": 3,
+    "img_nft": "https://i.imgur.com/E5HlSpR.png",
+    "img_collector": "https://i.imgur.com/7VpsOQd.png",
+    "collection_name": "InvisibleFriend #54",
+    "collector_name": "INVISIBLE_FRIEND.CO",
+    "crypto_chain": "https://i.imgur.com/SahQFuC.png",
+    "latest_bid": "6.73 ETH",
+    "from": "1.55 ETH",
+    "price": "$9,945.1",
+    "change": "+3.57%"
+  },
+  {
+    "id": 4,
+    "img_nft": "https://i.imgur.com/4KVcmsT.png",
+    "img_collector": "https://i.imgur.com/b8BsOy9.png",
+    "collection_name": "CryptoPunk 3D #13",
+    "collector_name": "3D cryptopunk",
+    "crypto_chain": "https://i.imgur.com/SahQFuC.png",
+    "latest_bid": "9.61 ETH",
+    "from": "4.12 ETH",
+    "price": "$103,025",
+    "change": "-2.25%"
+  }
+
+]

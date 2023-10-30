@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "img_1": "https://i.imgur.com/2UdpSLk.png",
+    "img_2": "https://i.imgur.com/64WVJ5w.png",
+    "img_3": "https://i.imgur.com/n38iGxc.png",
+    "name": "Art"
+  },
+  {
+    "id": 2,
+    "img_1": "https://i.imgur.com/2gI5k8W.png",
+    "img_2": "https://i.imgur.com/bSLtPVz.png",
+    "img_3": "https://i.imgur.com/ZaozY7C.png",
+    "name": "Collectibles"
+  },
+  {
+    "id": 1,
+    "img_1": "https://i.imgur.com/4Og8qcr.png",
+    "img_2": "https://i.imgur.com/IesD0ZA.png",
+    "img_3": "https://i.imgur.com/dQTMflT.png",
+    "name": "Virtual Worlds & Metaverse"
+  }
+]

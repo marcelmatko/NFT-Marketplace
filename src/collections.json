@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nft_img": "https://i.imgur.com/Ebh31oO.png",
+    "nft_name": "COOLGUYZZ",
+    "nft_collector": "Coolguyzz.io",
+    "floor_price": "1.5 ETH",
+    "price": "$2045.12",
+    "change": "-12.45%"
+  },
+  {
+    "id": 2,
+    "nft_img": "https://i.imgur.com/LTDh2HK.png",
+    "nft_name": "gangstaboi v.1",
+    "nft_collector": "GB_Gangs",
+    "floor_price": "2.53 ETH",
+    "price": "$4487",
+    "change": "+34.5%"
+  },
+  {
+    "id": 3,
+    "nft_img": "https://i.imgur.com/nA40sCi.png",
+    "nft_name": "HyperApe",
+    "nft_collector": "HyperApe.co",
+    "floor_price": "1.31 ETH",
+    "price": "$1743.4",
+    "change": "-5.6%"
+  },
+  {
+    "id": 4,
+    "nft_img": "https://i.imgur.com/REYJ65Z.png",
+    "nft_name": "Lyodd$1",
+    "nft_collector": "Naomi Po",
+    "floor_price": "1.156 ETH",
+    "price": "$1670",
+    "change": "+12.45%"
+  },
+  {
+    "id": 5,
+    "nft_img": "https://i.imgur.com/Ebh31oO.png",
+    "nft_name": "COOLGUYZZ",
+    "nft_collector": "Coolguyzz.io",
+    "floor_price": "1.5 ETH",
+    "price": "$2045.12",
+    "change": "-12.45%"
+  },
+  {
+    "id": 6,
+    "nft_img": "https://i.imgur.com/LTDh2HK.png",
+    "nft_name": "gangstaboi v.1",
+    "nft_collector": "GB_Gangs",
+    "floor_price": "2.53 ETH",
+    "price": "$4487",
+    "change": "+34.5%"
+  },
+  {
+    "id": 7,
+    "nft_img": "https://i.imgur.com/nA40sCi.png",
+    "nft_name": "HyperApe",
+    "nft_collector": "HyperApe.co",
+    "floor_price": "1.31 ETH",
+    "price": "$1743.4",
+    "change": "-5.6%"
+  },
+  {
+    "id": 8,
+    "nft_img": "https://i.imgur.com/REYJ65Z.png",
+    "nft_name": "Lyodd$1",
+    "nft_collector": "Naomi Po",
+    "floor_price": "1.156 ETH",
+    "price": "$1670",
+    "change": "+12.45%"
+  },
+  {
+    "id": 9,
+    "nft_img": "https://i.imgur.com/LTDh2HK.png",
+    "nft_name": "gangstaboi v.1",
+    "nft_collector": "GB_Gangs",
+    "floor_price": "2.53 ETH",
+    "price": "$4487",
+    "change": "+34.5%"
+  },
+  {
+    "id": 3,
+    "nft_img": "https://i.imgur.com/nA40sCi.png",
+    "nft_name": "HyperApe",
+    "nft_collector": "HyperApe.co",
+    "floor_price": "1.31 ETH",
+    "price": "$1743.4",
+    "change": "-5.6%"
+  }
+
+]
